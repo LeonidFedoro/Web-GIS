@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|c:\\users\\\u043B\u0435\u043E\u043D\u0438\u0434\\desktop\\\u0433\u0438\u0441\u044B\\labagis\\webapp-mvc-auth-cookiee\\views\\place\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|solutionrelative:webapp-mvc-auth-cookiee\\views\\place\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|c:\\users\\\u043B\u0435\u043E\u043D\u0438\u0434\\desktop\\\u0433\u0438\u0441\u044B\\labagis\\webapp-mvc-auth-cookiee\\controllers\\placecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|solutionrelative:webapp-mvc-auth-cookiee\\controllers\\placecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|c:\\users\\\u043B\u0435\u043E\u043D\u0438\u0434\\desktop\\\u0433\u0438\u0441\u044B\\labagis\\webapp-mvc-auth-cookiee\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|solutionrelative:webapp-mvc-auth-cookiee\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|c:\\users\\\u043B\u0435\u043E\u043D\u0438\u0434\\desktop\\\u0433\u0438\u0441\u044B\\labagis\\webapp-mvc-auth-cookiee\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|solutionrelative:webapp-mvc-auth-cookiee\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|c:\\users\\\u043B\u0435\u043E\u043D\u0438\u0434\\desktop\\\u0433\u0438\u0441\u044B\\labagis\\webapp-mvc-auth-cookiee\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|solutionrelative:webapp-mvc-auth-cookiee\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|c:\\users\\\u043B\u0435\u043E\u043D\u0438\u0434\\desktop\\\u0433\u0438\u0441\u044B\\labagis\\webapp-mvc-auth-cookiee\\repositories\\placerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|solutionrelative:webapp-mvc-auth-cookiee\\repositories\\placerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|c:\\users\\\u043B\u0435\u043E\u043D\u0438\u0434\\desktop\\\u0433\u0438\u0441\u044B\\labagis\\webapp-mvc-auth-cookiee\\repositories\\interface\\iplacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|solutionrelative:webapp-mvc-auth-cookiee\\repositories\\interface\\iplacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|c:\\users\\\u043B\u0435\u043E\u043D\u0438\u0434\\desktop\\\u0433\u0438\u0441\u044B\\labagis\\webapp-mvc-auth-cookiee\\models\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|solutionrelative:webapp-mvc-auth-cookiee\\models\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|c:\\users\\\u043B\u0435\u043E\u043D\u0438\u0434\\desktop\\\u0433\u0438\u0441\u044B\\labagis\\webapp-mvc-auth-cookiee\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|solutionrelative:webapp-mvc-auth-cookiee\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|c:\\users\\\u043B\u0435\u043E\u043D\u0438\u0434\\desktop\\\u0433\u0438\u0441\u044B\\labagis\\webapp-mvc-auth-cookiee\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|solutionrelative:webapp-mvc-auth-cookiee\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|c:\\users\\\u043B\u0435\u043E\u043D\u0438\u0434\\desktop\\\u0433\u0438\u0441\u044B\\labagis\\webapp-mvc-auth-cookiee\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|solutionrelative:webapp-mvc-auth-cookiee\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|c:\\users\\\u043B\u0435\u043E\u043D\u0438\u0434\\desktop\\\u0433\u0438\u0441\u044B\\labagis\\webapp-mvc-auth-cookiee\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|solutionrelative:webapp-mvc-auth-cookiee\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|c:\\users\\\u043B\u0435\u043E\u043D\u0438\u0434\\desktop\\\u0433\u0438\u0441\u044B\\labagis\\webapp-mvc-auth-cookiee\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|solutionrelative:webapp-mvc-auth-cookiee\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|c:\\users\\\u043B\u0435\u043E\u043D\u0438\u0434\\desktop\\\u0433\u0438\u0441\u044B\\labagis\\webapp-mvc-auth-cookiee\\migrations\\20241213224327_plasesratingandcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|solutionrelative:webapp-mvc-auth-cookiee\\migrations\\20241213224327_plasesratingandcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|c:\\users\\\u043B\u0435\u043E\u043D\u0438\u0434\\desktop\\\u0433\u0438\u0441\u044B\\labagis\\webapp-mvc-auth-cookiee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|solutionrelative:webapp-mvc-auth-cookiee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|c:\\users\\\u043B\u0435\u043E\u043D\u0438\u0434\\desktop\\\u0433\u0438\u0441\u044B\\labagis\\webapp-mvc-auth-cookiee\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|solutionrelative:webapp-mvc-auth-cookiee\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|c:\\users\\\u043B\u0435\u043E\u043D\u0438\u0434\\desktop\\\u0433\u0438\u0441\u044B\\labagis\\webapp-mvc-auth-cookiee\\models\\studentsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|solutionrelative:webapp-mvc-auth-cookiee\\models\\studentsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|c:\\users\\\u043B\u0435\u043E\u043D\u0438\u0434\\desktop\\\u0433\u0438\u0441\u044B\\labagis\\webapp-mvc-auth-cookiee\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|solutionrelative:webapp-mvc-auth-cookiee\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|c:\\users\\\u043B\u0435\u043E\u043D\u0438\u0434\\desktop\\\u0433\u0438\u0441\u044B\\labagis\\webapp-mvc-auth-cookiee\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|solutionrelative:webapp-mvc-auth-cookiee\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|c:\\users\\\u043B\u0435\u043E\u043D\u0438\u0434\\desktop\\\u0433\u0438\u0441\u044B\\labagis\\webapp-mvc-auth-cookiee\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|solutionrelative:webapp-mvc-auth-cookiee\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|c:\\users\\\u043B\u0435\u043E\u043D\u0438\u0434\\desktop\\\u0433\u0438\u0441\u044B\\labagis\\webapp-mvc-auth-cookiee\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|solutionrelative:webapp-mvc-auth-cookiee\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|c:\\users\\\u043B\u0435\u043E\u043D\u0438\u0434\\desktop\\\u0433\u0438\u0441\u044B\\labagis\\webapp-mvc-auth-cookiee\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|solutionrelative:webapp-mvc-auth-cookiee\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|c:\\users\\\u043B\u0435\u043E\u043D\u0438\u0434\\desktop\\\u0433\u0438\u0441\u044B\\labagis\\webapp-mvc-auth-cookiee\\views\\place\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|solutionrelative:webapp-mvc-auth-cookiee\\views\\place\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|c:\\users\\\u043B\u0435\u043E\u043D\u0438\u0434\\desktop\\\u0433\u0438\u0441\u044B\\labagis\\webapp-mvc-auth-cookiee\\migrations\\20241220181308_makefieldsnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDCC1D6-A7C9-4F9A-A813-E385D5F9C36D}|WebApp-MVC-auth-cookiee\\WebApp-MVC-auth-cookiee.csproj|solutionrelative:webapp-mvc-auth-cookiee\\migrations\\20241220181308_makefieldsnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApp-MVC-auth-cookiee\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApp-MVC-auth-cookiee\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wBgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:18:23.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlaceController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Controllers\\PlaceController.cs",
+              "RelativeDocumentMoniker": "WebApp-MVC-auth-cookiee\\Controllers\\PlaceController.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Controllers\\PlaceController.cs",
+              "RelativeToolTip": "WebApp-MVC-auth-cookiee\\Controllers\\PlaceController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:12:13.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp-MVC-auth-cookiee\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApp-MVC-auth-cookiee\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T22:49:25.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Views\\Place\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp-MVC-auth-cookiee\\Views\\Place\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Views\\Place\\Index.cshtml",
+              "RelativeToolTip": "WebApp-MVC-auth-cookiee\\Views\\Place\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T20:21:00.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApp-MVC-auth-cookiee\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Models\\User.cs",
+              "RelativeToolTip": "WebApp-MVC-auth-cookiee\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:12:01.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp-MVC-auth-cookiee\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp-MVC-auth-cookiee\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T03:01:17.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Views\\Place\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApp-MVC-auth-cookiee\\Views\\Place\\Create.cshtml",
+              "ToolTip": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Views\\Place\\Create.cshtml",
+              "RelativeToolTip": "WebApp-MVC-auth-cookiee\\Views\\Place\\Create.cshtml",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAiwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T01:27:36.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlaceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Repositories\\PlaceRepository.cs",
+              "RelativeDocumentMoniker": "WebApp-MVC-auth-cookiee\\Repositories\\PlaceRepository.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Repositories\\PlaceRepository.cs",
+              "RelativeToolTip": "WebApp-MVC-auth-cookiee\\Repositories\\PlaceRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:17:25.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Place.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Models\\Place.cs",
+              "RelativeDocumentMoniker": "WebApp-MVC-auth-cookiee\\Models\\Place.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Models\\Place.cs",
+              "RelativeToolTip": "WebApp-MVC-auth-cookiee\\Models\\Place.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:36:36.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPlaceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Repositories\\Interface\\IPlaceRepository.cs",
+              "RelativeDocumentMoniker": "WebApp-MVC-auth-cookiee\\Repositories\\Interface\\IPlaceRepository.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Repositories\\Interface\\IPlaceRepository.cs",
+              "RelativeToolTip": "WebApp-MVC-auth-cookiee\\Repositories\\Interface\\IPlaceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:16:34.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241220181308_MakeFieldsNullable.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Migrations\\20241220181308_MakeFieldsNullable.cs",
+              "RelativeDocumentMoniker": "WebApp-MVC-auth-cookiee\\Migrations\\20241220181308_MakeFieldsNullable.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Migrations\\20241220181308_MakeFieldsNullable.cs",
+              "RelativeToolTip": "WebApp-MVC-auth-cookiee\\Migrations\\20241220181308_MakeFieldsNullable.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T18:13:08.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApp-MVC-auth-cookiee\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "WebApp-MVC-auth-cookiee\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T21:54:17.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApp-MVC-auth-cookiee\\Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "WebApp-MVC-auth-cookiee\\Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T22:03:53.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "WebApp-MVC-auth-cookiee\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "WebApp-MVC-auth-cookiee\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:14:21.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApp-MVC-auth-cookiee\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApp-MVC-auth-cookiee\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:13:30.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241213224327_plasesratingandcomments.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Migrations\\20241213224327_plasesratingandcomments.cs",
+              "RelativeDocumentMoniker": "WebApp-MVC-auth-cookiee\\Migrations\\20241213224327_plasesratingandcomments.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Migrations\\20241213224327_plasesratingandcomments.cs",
+              "RelativeToolTip": "WebApp-MVC-auth-cookiee\\Migrations\\20241213224327_plasesratingandcomments.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:43:27.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp-MVC-auth-cookiee\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Program.cs",
+              "RelativeToolTip": "WebApp-MVC-auth-cookiee\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAMwBcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:22:40.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Models\\Rating.cs",
+              "RelativeDocumentMoniker": "WebApp-MVC-auth-cookiee\\Models\\Rating.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Models\\Rating.cs",
+              "RelativeToolTip": "WebApp-MVC-auth-cookiee\\Models\\Rating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:37:13.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentsModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Models\\StudentsModel.cs",
+              "RelativeDocumentMoniker": "WebApp-MVC-auth-cookiee\\Models\\StudentsModel.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Models\\StudentsModel.cs",
+              "RelativeToolTip": "WebApp-MVC-auth-cookiee\\Models\\StudentsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:15:39.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApp-MVC-auth-cookiee\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApp-MVC-auth-cookiee\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T00:07:06.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "WebApp-MVC-auth-cookiee\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Models\\Comment.cs",
+              "RelativeToolTip": "WebApp-MVC-auth-cookiee\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:38:00.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApp-MVC-auth-cookiee\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApp-MVC-auth-cookiee\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:15:20.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "WebApp-MVC-auth-cookiee\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\Models\\Role.cs",
+              "RelativeToolTip": "WebApp-MVC-auth-cookiee\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:12:19.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp-MVC-auth-cookiee\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u041B\u0435\u043E\u043D\u0438\u0434\\Desktop\\\u0433\u0438\u0441\u044B\\LabaGis\\WebApp-MVC-auth-cookiee\\appsettings.json",
+              "RelativeToolTip": "WebApp-MVC-auth-cookiee\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-13T21:23:44.821Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 785,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1102,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

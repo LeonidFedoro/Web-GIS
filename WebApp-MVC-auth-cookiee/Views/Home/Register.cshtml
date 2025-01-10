@@ -1,0 +1,19 @@
+﻿
+
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2>Register</h2>
+<form method="post" action="@Url.Action("Register", "Home")">
+    <p>
+        <label>Username:</label><br />
+        <input name="Username" required />
+    </p>
+    <p>
+        <label>Password:</label><br />
+        <input type="password" name="Password" required />
+    </p>
+    <input type="submit" value="Register" />
+</form>
+

@@ -1,0 +1,39 @@
+﻿@model IEnumerable<WebApp_MVC_auth_cookiee.Models.Place>
+
+@{
+    ViewData["Title"] = "Список мест";
+}
+
+<style>
+    /* Стили для карты */
+    #map {
+        height: 600px; /* Установите высоту карты */
+        margin-top: 20px; /* Отступ сверху */
+    }
+</style>
+
+<h2>Список мест</h2>
+<a href="@Url.Action("Create", "Place")" class="btn btn-success">Создать новое место</a>
+<div id="map"></div>
+
+@section Scripts {
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script>
+        var map = L.map('map').setView([51.505, -0.09], 13); // Установите начальное местоположение
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '© OpenStreetMap'
+        }).addTo(map);
+
+        // Добавление маркеров для существующих мест
+        @foreach (var place in Model)
+        {
+            <text>
+                    L.marker([@place.Latitude, @place.Longitude]).addTo(map)
+                        .bindPopup('<b>@place.Name</b><br />@place.Description');
+            </text>
+        }
+    </script>
+}
